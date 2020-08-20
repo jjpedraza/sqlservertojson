@@ -1,12 +1,12 @@
 
 <%
 '---Ajusta los parametros con los de tu servidor:
-    Ip= "172.16.91.2"    
+    Ip= "172.16.91.20"    
     Instance = "DCCENTRAL"         
     DbPort="1433"
     DbName ="DcEstatal"
     DbUser = "itv_dba"
-    DbPassword = "818t3m41t4vu"
+    DbPassword = "TuClave"
     Token = "it4vu" 'Esta es la contraseña para que accedan al webservice
 '-----------------------------------------------------------------------
 'Recomendacion: 
