@@ -3,7 +3,7 @@ WebService en ASP Classic, para servidores que tengan acceso a bases de datos MS
 
 Lenguaje: ASP Classic
 
-
+![Video dDemo](sqlvideo.gif)
 
 Si te sive, aprovechalo
 JPedraza, printepolis@gmail.com
